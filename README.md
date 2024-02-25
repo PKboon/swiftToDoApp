@@ -2,7 +2,7 @@
 My first Swift app. A basic To-Do app, no database connection.
 
 ## Demo
-![demo](https://github.com/PKboon/swiftToDoApp/blob/main/Demo%20swift%20to-do%20app.gif)
+![demo](https://github.com/PKboon/swiftToDoApp/blob/main/src/assets/Demo%20swift%20to-do%20app.gif)
 
 ## Features
 - Add and Delete a task
