@@ -4,8 +4,8 @@ My first Swift app. A basic To-Do app, no database connection.
 ## Features
 - Add and Delete a task
 - Disable the Submit button if:
-  - the task input is empty
-  - if the entered task is already on the list (the error message will show)
+  1. the task input is empty
+  2. the entered task is already on the list (the error message will show)
 - Show the total number of the tasks
 
 ## Demo
